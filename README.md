@@ -1,2 +1,9 @@
 # dataEntry
-enter data of 25 specific things with 5 attributes each. Im useing the JSON format.
+Ryan Postma
+CMP237
+Data entry assignment
+2/15/2013
+
+Enter data of 25 specific things with 5 attributes each. Im useing the JSON format.
+
+I chose to enter in data for each of the premium tanks in one of my favorit video games World of Tanks. Thier is 33 of them and i am going to enter in what nationality they are. The class of each of them. The top speed in km/h. The gun caliber in mm. And finally the penetration of the gun in mm as well. I plan to list all of this in JSON format becasue it seemed to be the most straight forward to me. 
