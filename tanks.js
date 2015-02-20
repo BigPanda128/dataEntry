@@ -1,3 +1,10 @@
+//Ryan Postma
+//CMP237
+//DATA entry
+//Tanks from Worl of Tanks
+//sorted by name, nation, tank type, speed in km/h, calibur of gun in MM
+//and damage
+
 var TANKS_FILE = [
 { 'name': 't2 light', 'nation': 'american', 'type': 'light', 'speed': 72, 'caliber': 20, 'damage': 12 },
 { 'name': 'locust', 'nation': 'american', 'type': 'light', 'speed': 64, 'caliber': 37, 'damage': 40 },
