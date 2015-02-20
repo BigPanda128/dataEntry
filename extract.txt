@@ -1,0 +1,6 @@
+you can easily filter out any of the information stored in the data set. tanks
+of a specific nation, tanks with a speed above or below somthing, tanks with a
+certain size calibur gun, average alpha damage. 
+As for the mapping i could only
+come up with one way map in this data set. And that is to add 5% to all speeds
+to take in account for removal of the govner on each tank. 
